@@ -6,5 +6,5 @@ Also, heres a simple code that you might interested in
 
 ```js
 class Myself extends Error {}
-throw Myself("im a dogshit")
+throw new Myself("im a dogshit")
 ```
